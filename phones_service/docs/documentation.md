@@ -4,7 +4,7 @@ This service is used to create, delete, get phones for electronicstore.
 Phones Service uses gRPC to handle requests. Also handler for getting 
 single phone can be used with rabbitMQ.
 
-gRPC server runs on port 8002
+gRPC server runs on port 8002 and Rabbit 5672
 
 Methods:
 
