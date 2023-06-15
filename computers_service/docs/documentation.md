@@ -4,7 +4,7 @@ This service is used to create, delete, get computers for electronicstore.
 Computers Service uses gRPC to handle requests. Also handler for getting 
 single computer can be used with rabbitMQ.
 
-gRPC server runs on port 8003
+gRPC server runs on port 8003 and Rabbit on port 5672
 
 Methods:
 
